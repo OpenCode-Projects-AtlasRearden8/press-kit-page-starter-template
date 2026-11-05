@@ -1,0 +1,38 @@
+SAMPLE INTERVIEW Q&As — Dylan Asdale
+
+Starter answers for podcasters and journalists. Use verbatim or as
+springboards; Dylan is happy to go deeper on any of these.
+
+Q: You went from nursing to writing about AI. How does that happen?
+A: Nursing teaches you to explain things at 3 a.m. to someone who is scared
+and tired, with zero room for jargon. When I started learning AI, I noticed
+most guides did the opposite: they either talked down to beginners or hid
+behind buzzwords. I wanted to write the guide I wished I had, so I did.
+
+Q: What makes The Massive AI Manual different from other AI books?
+A: Three things. It is in plain English. It is step by step, so you finish
+each small step before the next one starts. And it never assumes you already
+know the secret handshake. Beginners are not slow; they are just new. There
+is a difference, and I write for that difference.
+
+Q: Should beginners worry about privacy with AI tools?
+A: A healthy yes. The manual covers practical habits: what not to paste into
+a chatbot, how to run AI on your own computer when you want the data to stay
+home, and how to check what a service is doing with your files. You do not
+need to be paranoid. You need a short, sensible checklist, which the book
+provides.
+
+Q: What is Asdale Dynamics, LLC?
+A: An Indiana company I formed in October 2026 to publish my books, guides,
+and practical tools, including open-source templates. The focus is
+beginner-friendly AI education, plus author and small-business helpers like
+publishing, marketing, and bookkeeping tools. Open-source where it makes
+sense, honest about limits always.
+
+Q: You write about healthcare workers and AI. What is your stance?
+A: Education only, never medical advice. I am a nurse, not a replacement for
+your care team. AI can help a busy nurse write a shift-handoff study plan or
+learn a new tool, but patient decisions belong with licensed professionals.
+The book makes that line very clear.
+
+Copyright (c) 2026 Asdale Dynamics, LLC

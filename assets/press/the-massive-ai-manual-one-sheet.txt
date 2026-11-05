@@ -1,0 +1,29 @@
+ONE-SHEET — The Massive AI Manual
+
+Title ......... The Massive AI Manual
+Author ........ Dylan Asdale
+Publisher ..... Asdale Dynamics, LLC (Indiana, formed October 2026)
+Status ........ Announced, 2026
+Formats ....... Paperback and ebook (details pending)
+
+WHAT IT IS
+A beginner's guide that explains AI the way a friend would: in plain
+English, one step at a time, and never condescending.
+
+WHAT IS INSIDE
+- Everyday AI tools and how to use them well
+- Agents and MCP, explained without buzzwords
+- Running AI on your own computer (local-first)
+- Free AI coding and GitHub basics
+- Practical privacy habits for beginners
+
+WHO IT IS FOR
+Absolute beginners, small-business owners, authors, and healthcare workers
+curious about AI. Education only, never medical advice.
+
+TALKING POINTS
+- Written by a registered nurse who knows how to explain hard things kindly
+- Three rules in every chapter: plain English, step by step, no condescension
+- Companion hub at dylanasdale.github.io
+
+Copyright (c) 2026 Asdale Dynamics, LLC

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-label="Square headshot placeholder">
+  <rect width="480" height="480" fill="#e7e1d3"/>
+  <circle cx="240" cy="185" r="80" fill="#b9c6ea"/>
+  <path d="M 90 480 Q 240 330 390 480 Z" fill="#b9c6ea"/>
+  <text x="240" y="435" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="17" fill="#10306b">HEADSHOT PLACEHOLDER — 480 x 480</text>
+</svg>

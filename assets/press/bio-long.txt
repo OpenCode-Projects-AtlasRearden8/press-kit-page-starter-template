@@ -1,0 +1,24 @@
+LONG BIO — Dylan Asdale (about 200 words)
+
+Dylan Asdale spent years as a registered nurse, where he learned that the
+best explanations are patient, honest, and free of jargon. When he started
+learning AI, he noticed that most resources either talked down to beginners
+or buried them in buzzwords. So he started writing the kind of guide he
+wished existed.
+
+His first book, The Massive AI Manual, walks complete beginners through
+everyday AI in plain English: what the tools actually do, how to use them
+safely, and where they genuinely help. He maintains a companion hub at
+dylanasdale.github.io.
+
+In October 2026 he founded Asdale Dynamics, LLC, an Indiana company focused
+on beginner-friendly AI education. The company publishes books, guides,
+practical tools, and open-source templates on the same three rules Dylan
+learned in healthcare: explain clearly, respect the reader, and never
+pretend to be something you are not.
+
+Dylan lives in Indiana. When he is not writing, he is probably playing
+Final Fantasy XIV, losing gracefully at chess, or organizing one more
+paperwork folder.
+
+Copyright (c) 2026 Asdale Dynamics, LLC

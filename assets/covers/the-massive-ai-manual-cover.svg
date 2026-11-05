@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" role="img" aria-label="Placeholder book cover for The Massive AI Manual">
+  <rect width="400" height="600" fill="#10306b"/>
+  <rect x="18" y="18" width="364" height="564" fill="none" stroke="#cdd9f5" stroke-width="2"/>
+  <rect x="0" y="410" width="400" height="190" fill="#1d4ed8"/>
+  <circle cx="200" cy="185" r="70" fill="#cdd9f5" opacity="0.22"/>
+  <circle cx="200" cy="185" r="45" fill="#cdd9f5" opacity="0.35"/>
+  <circle cx="200" cy="185" r="22" fill="#fdfcf9"/>
+  <text x="200" y="120" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="20" letter-spacing="4" fill="#cdd9f5">DYLAN ASDALE</text>
+  <text x="200" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#fdfcf9">THE MASSIVE</text>
+  <text x="200" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#fdfcf9">AI MANUAL</text>
+  <text x="200" y="455" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="19" fill="#fdfcf9">AI, explained like a</text>
+  <text x="200" y="483" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="19" fill="#fdfcf9">friend would:</text>
+  <text x="200" y="511" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="19" fill="#e8edfb">plain English, step by step,</text>
+  <text x="200" y="539" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="19" fill="#e8edfb">never condescending</text>
+  <text x="200" y="578" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#cdd9f5">ASDALE DYNAMICS, LLC</text>
+</svg>
